@@ -9,7 +9,7 @@ void main()
    num2=pow(((a/10)%10),3);
    num3=pow((a%10),3);
    sum=num1+num2+num3;
-   printf("The AMSTRONG NUMBER is %d",sum);
+   printf("The ARMSTRONG NUMBER is %d",sum);
    
    
 }
